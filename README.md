@@ -1,5 +1,5 @@
 
-# Hospitality Analytics – End-to-End Data Analytics Project 🏨📊
+# Hospitality Analytics – End-to-End Data Analytics Project 
 
 # Problem Statement
 The hospitality industry generates large volumes of booking, revenue, and operational data, but decision-makers often struggle to convert this raw data into actionable insights.
