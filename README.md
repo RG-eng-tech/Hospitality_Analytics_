@@ -109,5 +109,3 @@ This project simulates a **real-world hospitality analytics use case** using ind
 ⭐ If you find this project useful, feel free to star the repository!
 
 ---
-
-## 📁 Repository Structure
